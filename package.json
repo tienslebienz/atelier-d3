@@ -1,0 +1,9 @@
+{
+  "name": "atelier-d3.js",
+  "version": "1.0.0",
+  "description": " Introduction à d3.js ",
+  "main": "src/index.js",
+  "repository": "git@github.com:tienslebienz/atelier-d3.js.git",
+  "author": "Etienne Crombez <etienne.crombez@zenika.com>",
+  "license": "MIT"
+}
