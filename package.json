@@ -13,5 +13,8 @@
   "devDependencies": {
     "babel-polyfill": "^6.26.0",
     "parcel": "^1.8.1"
+  },
+  "dependencies": {
+    "d3": "^5.4.0"
   }
 }
