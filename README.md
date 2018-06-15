@@ -1,6 +1,11 @@
 atelier-d3.js
 =============
 
+Source
+------
+
+http://rajapradhan.com/blogs/d3-js-v4-essentials/
+
 Requirements
 ------------
 
